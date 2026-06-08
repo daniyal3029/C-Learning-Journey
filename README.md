@@ -7,3 +7,6 @@ The repository contains a single directory, `PF-Labs`, which stores lab document
 ## Topics
 * Programming fundamentals
 * Lab exercises and resources
+
+## Getting Started
+To get started with this repository, simply clone it to your local machine and navigate to the `PF-Labs` directory to access the lab documents and resources.

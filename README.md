@@ -13,3 +13,6 @@ To get started with this repository, simply clone it to your local machine and n
 
 ## Contributing
 Contributions are welcome! If you have any lab documents or resources you'd like to share, please submit a pull request.
+
+## License
+This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.

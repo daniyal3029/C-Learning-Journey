@@ -16,3 +16,6 @@ Contributions are welcome! If you have any lab documents or resources you'd like
 
 ## License
 This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+## Usage Examples
+The lab documents and resources in the `PF-Labs` directory can be used to learn programming fundamentals. For example, you can use the lab exercises to practice coding in C.

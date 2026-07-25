@@ -27,3 +27,6 @@ The lab documents and resources in the `PF-Labs` directory can be used to learn 
 4. [Contributing](#contributing)
 5. [License](#license)
 6. [Usage Examples](#usage-examples)
+
+## Badges
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

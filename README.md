@@ -27,9 +27,10 @@ The lab documents and resources in the `PF-Labs` directory can be used to learn 
 4. [Contributing](#contributing)
 5. [License](#license)
 6. [Usage Examples](#usage-examples)
+7. [Installation](#installation)
 
 ## Badges
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Installation
-To install the necessary tools for working with this repository, you will need a C compiler. You can install one using your package manager, such as apt or brew, by running the following command: `sudo apt-get install gcc` or `brew install gcc`. You can then verify the installation by running `gcc --version`.
+To install the necessary tools for working with this repository, you will need a C compiler. You can install one using your package manager, such as apt or brew, by running the following command: `sudo apt-get install gcc` or `brew install gcc`. You can then verify the installation by running `gcc --version`. Additionally, you may want to install a code editor or IDE, such as Visual Studio Code or IntelliJ, to write and compile your C code.
